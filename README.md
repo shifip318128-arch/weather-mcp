@@ -67,7 +67,7 @@ py weather\_server.py
 ## מבנה הפרויקט
 
 ```
-weather\_server.py   קוד השרת
+weather_server.py   קוד השרת
 requirements.txt    הספריות הנדרשות
 README.md           הקובץ הזה
 ```
@@ -77,5 +77,7 @@ README.md           הקובץ הזה
 שם: שיפי פינסקי.  
 ## צילומי מסך
 ![חלון אישור](image1.png)
+
+
 ![תשובה](image2.png)
 
